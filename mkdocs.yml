@@ -13,11 +13,11 @@ markdown_extensions:
   - admonition
   - meta
 
-repo_name: HiteaFR/HiteaShell
+repo_name: HiteaFR/MsCoManager
 
-repo_url: https://github.com/HiteaFR/HiteaShell
+repo_url: https://github.com/HiteaFR/MsCoManager
 
 extra:
   social:
     - type: github
-      link: https://github.com/HiteaFR/HiteaShell
+      link: https://github.com/HiteaFR/MsCoManager

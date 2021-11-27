@@ -8,7 +8,7 @@ OnPremise : PsSession, Rdp
 
 ## Documentation
 
-Toute la documentation: [HiteaFR.github.io/HiteaShell](https://HiteaFR.github.io/HiteaShell)
+Toute la documentation: [HiteaFR.github.io/MsCoManager](https://HiteaFR.github.io/MsCoManager)
 
 ## Prérequis
 
@@ -44,7 +44,7 @@ Page du Module: [powershellgallery.com/packages/MsCoManager](https://www.powersh
 ### Dépot Git
 
 ```powershell
-    Git clone https://github.com/HiteaFR/HiteaShell.git
+    Git clone https://github.com/HiteaFR/MsCoManager.git
 
     Set-ExecutionPolicy Bypass -Scope Process -Force
 
@@ -53,7 +53,7 @@ Page du Module: [powershellgallery.com/packages/MsCoManager](https://www.powersh
 
 ### Téléchargement
 
-Télécharger la dernière version : [github.com/HiteaFR/HiteaShell/releases/latest](https://github.com/HiteaFR/HiteaShell/releases/latest)
+Télécharger la dernière version : [github.com/HiteaFR/MsCoManager/releases/latest](https://github.com/HiteaFR/MsCoManager/releases/latest)
 
 ```powershell
     Set-ExecutionPolicy Bypass -Scope Process -Force
@@ -73,4 +73,4 @@ Télécharger la dernière version : [github.com/HiteaFR/HiteaShell/releases/lat
     Mcm disconnect -services @('')
 ```
 
-Voir toute la doc : : [HiteaFR.github.io/HiteaShell](https://HiteaFR.github.io/HiteaShell)
+Voir toute la doc : : [HiteaFR.github.io/MsCoManager](https://HiteaFR.github.io/MsCoManager)
