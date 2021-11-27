@@ -6,6 +6,19 @@ Cloud : AzureAD, ComplianceCenter, ExchangeOnline, ExchangeOnlineProtection, MSO
 
 OnPremise : PsSession, Rdp
 
+Venez nous soutenir sur les Réseaux et Youtube :)
+
+- [Hitea.fr](https://hitea.fr/)
+- [Youtube](https://www.youtube.com/channel/UCt30dovkjqINMeh0p5DUoVQ?sub_confirmation=1)
+- [Facebook](https://www.facebook.com/hitea.fr)
+- [Twitter](https://twitter.com/HiteaFR)
+- [Linkedin](https://www.linkedin.com/company/hitea-fr)
+- [GitHub](https://github.com/HiteaFR)
+
+## Documentation
+
+Toute la documentation: [HiteaFR.github.io/PsPassManager](https://HiteaFR.github.io/PsPassManager)
+
 ## Documentation
 
 Toute la documentation: [HiteaFR.github.io/MsCoManager](https://HiteaFR.github.io/MsCoManager)
