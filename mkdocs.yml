@@ -1,0 +1,23 @@
+site_name: MsCoManager
+
+theme:
+  name: "material"
+  feature:
+    tabs: true
+  palette:
+    primary: "amber"
+    accent: "deep orange"
+
+markdown_extensions:
+  - codehilite
+  - admonition
+  - meta
+
+repo_name: HiteaFR/HiteaShell
+
+repo_url: https://github.com/HiteaFR/HiteaShell
+
+extra:
+  social:
+    - type: github
+      link: https://github.com/HiteaFR/HiteaShell

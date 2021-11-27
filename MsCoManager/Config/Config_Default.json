@@ -1,0 +1,18 @@
+﻿{
+    "Services":  [
+                     "PsSession",
+                     "Rdp",
+                     "AllCloudServices",
+                     "AllPremServices",
+                     "AzureAD",
+                     "ComplianceCenter",
+                     "ExchangeOnline",
+                     "ExchangeOnlineProtection",
+                     "MSOnline",
+                     "SharepointOnline",
+                     "SkypeforBusinessOnline"
+                 ],
+    "Default":  [
+                    "PsSession"
+                ]
+}
